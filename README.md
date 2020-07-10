@@ -3,14 +3,16 @@
 <!--
 **MarioRashadHUB/MarioRashadHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! Welcome to my GitHub page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me on these platforms
+
+🔗 LinkedIn: https://www.linkedin.com/in/mario-rashad-paul/
+
+🔗 Twitter: https://twitter.com/MarioRashadData
+
+🔗 Medium: https://medium.com/@mariorashad.paul
+
+🔗 Email: mariorashad.paul@gmail.com
+
+

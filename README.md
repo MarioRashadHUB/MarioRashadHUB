@@ -1,4 +1,4 @@
-### Hello! Welcome to my GitHub page.
+### Hello! Welcome to Mario Paul's GitHub Page.
 
 Connect with me on these platforms
 
